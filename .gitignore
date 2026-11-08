@@ -1,0 +1,3 @@
+.azure/
+scenario/
+*.env
